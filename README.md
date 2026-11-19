@@ -1,6 +1,8 @@
 # Basic Employee Onboarding (AD)(RBAC)
 
 ## Problem Statement
+Here at Northstar Medical Group until recently the company was using an MSP to handle the infrastructure, the Active Directory environment was disorganized users would get added manually, randomly, with zero structure. Access was inconsistent, some people had more permissions than they should have, some had less than they needed. Departments weren't properly organized, if someone left the MSP sometimes forgot to disable their account for months! If a new hire needs access, it could take days because nobody knew the process. A new employee just joined the company as an HR Payroll specialist, from the very first day Jane was having issues with accessing the correct resources needed for her role. 
+
 [Provide 3 to 5 sentences describing what was broken at Northstar Medical Group. Mention the MSP mismanagement, lack of structure, manual processes, and HIPAA risks that existed before your project.]
 
 ## Solution Overview
@@ -12,7 +14,6 @@
 ## Tools Used
 * Windows Server
 * Active Directory Domain Services
-* VirtualBox
 * UTM
 * RBAC
 * GitHub
